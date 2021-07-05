@@ -1,0 +1,6 @@
+#dev properties
+
+app:
+  message: Arquivo de configuraçao do ambeinte DEV da ${spring.application.name}
+
+#debug: true
